@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 import db.DB;
 import db.DbIntegrityException;
-import model.Department;
+import model.entities.Department;
 
 public class Program {
 
